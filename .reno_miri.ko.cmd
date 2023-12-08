@@ -1,0 +1,1 @@
+cmd_/home/parallels/Documents/PA/reno_miri.ko := ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/parallels/Documents/PA/reno_miri.ko /home/parallels/Documents/PA/reno_miri.o /home/parallels/Documents/PA/reno_miri.mod.o;  true
